@@ -1,2 +1,2 @@
 # wibowohar-resolusi
-Resolusi
+Repository wibowohar kedepanya
